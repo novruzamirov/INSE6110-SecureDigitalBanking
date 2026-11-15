@@ -77,7 +77,6 @@ sequenceDiagram
 
 | Member | Responsibility |
 |---|---|
-| Allyn Denis | Report and presentation |
 | Nadhem Rojbi | Demo |
 | Novruz Amirov | GitHub repository and frontend |
 | Muhammad Saleh | Backend |
