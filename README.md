@@ -77,7 +77,7 @@ sequenceDiagram
 
 | Member | Responsibility |
 |---|---|
-| Nadhem Rojbi | Demo |
+| Nadhem Rojbi | Report, presentation and demo |
 | Novruz Amirov | GitHub repository and frontend |
 | Muhammad Saleh | Backend |
 | Ahsan Saleem | Testing and security analysis |
